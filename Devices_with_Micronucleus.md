@@ -41,6 +41,8 @@ Please note that Micronucleus is a completely independent project and is not afi
 
 ## ATtiny 84 ##
 - [Shinewave](https://github.com/GGreenwood/Shinewave) by [Electric Exploits](http://electricexploits.net/) - USB mods for GameCube controllers
+- [Owlboard](https://oit.edu/cet/open-source-projects) by [Oregon Tech](http://oit.edu) - Owl shaped board designed to teach students hardware, software, and soldering skills at the lowest possible cost. 
+- [Oregonboard](https://oit.edu/cet/open-source-projects) by [Oregon Tech](http://oit.edu) - Oregon shaped board designed to teach students hardware, software, and soldering skills at the lowest possible cost. 
 
 ## ATtiny 88 ##
 - [MH Tiny88](http://mh.nodebb.com/topic/47/mh-et-live-tiny88-16-0mhz) - A tiny breakout board with an ATtiny 88. Arduino compatible.
